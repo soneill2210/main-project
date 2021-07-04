@@ -1,1 +1,28 @@
-ul{list-style-type: none;}
+ul{list-style-type: none;
+float:left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float:right;
+    font-size:20px;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 80px;
+    text-decoration: none;
+  }
+
+a{
+    display: block;
+    padding: 8px;
+    background-color: #504c4c7a;
+
+  }
