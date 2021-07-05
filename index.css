@@ -1,7 +1,8 @@
+
 header
 {width:100%;
 height:70px;
-background-color: rgba(56, 59, 59, 0.192);}
+background-color: rgba(48, 49, 49, 0.192);}
 
 
 ul{
@@ -20,7 +21,7 @@ a{
     color:darkblue;
     text-decoration: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size:20px;
+    font-size:25px;
 }
 
 a:hover{
