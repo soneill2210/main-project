@@ -1,0 +1,35 @@
+nav{
+    margin:0px;
+    padding:0px;
+    width:100%;
+    background-color: rgba(14, 1, 46, 0.801);
+    align-items: center;
+    float: left;
+
+}
+
+li{
+    margin-right:45px;
+   
+    list-style: none;
+    position:relative;
+    float:left;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+
+h4{
+    color: rgb(231, 224, 224);
+    letter-spacing: 5px;
+    font-size: 10px;
+    padding-left:30px;
+}
+
+nav a{
+    color:rgb(231, 224, 224) ;
+    text-decoration: none;
+}
+
