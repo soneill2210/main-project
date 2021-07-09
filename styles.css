@@ -9,22 +9,21 @@
 }
 
 
-li{list-style: none;
+.nav-item{list-style: none;
 display: inline-block;
 margin: 10px;
 padding:10px;
 font-size: 25px;
 font-family: poppins,sans-serif;
-text-align:left;
+text-align:right;
 position:relative;}
 
-li a{color: antiquewhite;
+.nav-item a{color: antiquewhite;
 text-decoration: none;
 text-transform: uppercase;
-font-weight: 400px;
 margin:0px 10px;}
 
-li a:hover{color:blue;
+.nav-item a:hover{color:blue;
     display: block;
     position: relative;}
 
@@ -35,4 +34,4 @@ nav ul li a:before {
 }
 
 .logo{position: relative;
-    margin:10px;
+    margin:10px;}
