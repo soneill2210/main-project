@@ -4,7 +4,8 @@
     height: 75px;
     padding:0px;
     width:100%;
-    background-color: rgba(100, 100, 97, 0.801);
+    background-color:grey;
+    box-shadow: black 0px 5px 7px;
 }
 
 
@@ -19,16 +20,9 @@ li a{color: antiquewhite;
 text-decoration: none;
 text-transform: uppercase;}
 
-li a:hover{color: black;
-background-color: blue;}
+li a:hover{color:lime;}
 
-
-h4{
-    font-family: poppins,sans-serif;
-    letter-spacing:8px;
-    font-size: 10px;
-    color: blanchedalmond;
-    font-weight: 20;
-    margin-left:20px;
+logo{
+    margin-left: 10px;
 }
 
