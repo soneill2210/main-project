@@ -1,6 +1,6 @@
 
 .navbar{
-    margin:0px;
+    margin:0px auto;
     height: 75px;
     padding:0px;
     width:100%;
@@ -11,10 +11,12 @@
 
 li{list-style: none;
 display: inline-block;
-margin-right: 30px;
-padding:15px;
+margin: 10px;
+padding:10px;
 font-size: 25px;
-font-family: poppins,sans-serif;}
+font-family: poppins,sans-serif;
+text-align:left;
+position:relative;}
 
 li a{color: antiquewhite;
 text-decoration: none;
@@ -22,12 +24,10 @@ text-transform: uppercase;}
 
 li a:hover{color:blue;
     display: block;
-}
+    position: relative;}
 
-logo{
-    margin-left: 0px;
-    margin-top: 25px;
-    position: relative;
-    padding-bottom: 20px;
+.logo{position:absolute;
+    margin:75%;
+
 }
 
