@@ -20,14 +20,19 @@ position:relative;}
 
 li a{color: antiquewhite;
 text-decoration: none;
-text-transform: uppercase;}
+text-transform: uppercase;
+font-weight: 400px;
+margin:0px 10px;}
 
 li a:hover{color:blue;
     display: block;
     position: relative;}
 
-.logo{position:absolute;
-    margin:75%;
-
+    nav ul li a,
+nav ul li a:after,
+nav ul li a:before {
+  transition: all .5s;
 }
 
+.logo{position: relative;
+    margin:10px;
