@@ -20,9 +20,14 @@ li a{color: antiquewhite;
 text-decoration: none;
 text-transform: uppercase;}
 
-li a:hover{color:lime;}
+li a:hover{color:blue;
+    display: block;
+}
 
 logo{
-    margin-left: 10px;
+    margin-left: 0px;
+    margin-top: 25px;
+    position: relative;
+    padding-bottom: 20px;
 }
 
