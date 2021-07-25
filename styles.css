@@ -55,10 +55,11 @@ font-size: 20px;}
 
 
 #footer{
-    background-color: burlywood;
+    background-color:rgb(172, 150, 104);
     color: white;
     font-size: 20px;
     text-align: center;
     padding-top:25px;
     font-family: poppins,sans-serif;
+    color:white;
 }
