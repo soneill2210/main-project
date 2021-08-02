@@ -94,17 +94,20 @@ border:3px solid rgb(188, 206, 27)}
 color: aqua;}
 
 .img-des{font-size: 15px;
-text-align:justify}
+text-align:justify;}
 
 .ezystak{ float:right;
           margin:15px;
           width:600px;
-          height:350px;
-        border-radius: 25px;
-        border:3px solid rgb(188, 206, 27);}
+          height:350px;}
 
 
-.Rocco{border-radius: 25px;
-       border: 3px solid rgb(188, 206, 27);}
+.sm-img{border-radius: 25px;
+       border: 3px solid rgb(188, 206, 27);
+    text-align: justify;
+margin: 10px;}
+
+.Rocco{float:left;
+margin:15px;}
 
 
