@@ -104,10 +104,18 @@ text-align:justify;}
 
 .sm-img{border-radius: 25px;
        border: 3px solid rgb(188, 206, 27);
-    text-align: justify;
-margin: 10px;}
+    text-align: justify;}
 
 .Rocco{float:left;
 margin:15px;}
 
+.LP{float:right;
+margin:15px;
+height:200px;
+width:200px;}
+
+.plc{align-items: center;
+border-radius: 25px;
+border:3px solid rgb(188,206,27);
+width:100%;}
 
