@@ -122,10 +122,11 @@ width:100%;}
 
 
 .em-logos{
-float:center;
-padding:20px;
-border-radius:30px;
-width:60%;}
+position: relative;
+width:40%;
+border-radius: 25px;
+display:inline-block;
+padding-bottom: 30px;}
 
 
 
@@ -135,3 +136,10 @@ position: relative;
 text-align: center;}
 
 .em-history{background-color: blue;}
+
+.em-des{
+    padding-left: 40px;
+text-align: right;
+position: relative;
+font-size: 20px;
+display: inline-block;}
