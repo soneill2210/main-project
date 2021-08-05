@@ -124,9 +124,8 @@ width:100%;}
 .em-logos{
 position: relative;
 width:40%;
-border-radius: 25px;
-display:inline-block;
-padding-bottom: 30px;}
+border-radius: 25px 25px;
+display:inline-block;}
 
 
 
@@ -135,7 +134,11 @@ padding:25px;
 position: relative;
 text-align: center;}
 
-.em-history{background-color: blue;}
+.em-history{background-color: blue;
+border-radius: 30px;}
+
+.education{background-color: tomato;
+border-radius: 30px;}
 
 .em-des{
     padding-left: 40px;
