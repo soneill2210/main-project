@@ -1,7 +1,6 @@
 
 body{margin:0;
 padding:0;
-text-align: center;
 font-family: poppins,sans-serif;
 }
 
@@ -146,3 +145,9 @@ text-align: right;
 position: relative;
 font-size: 20px;
 display: inline-block;}
+
+.port-intro{color:white;
+    font-family: poppins,sans-serif;
+    font-size:20px;
+    text-align: justify;
+    padding:15px;}
