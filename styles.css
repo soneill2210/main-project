@@ -151,3 +151,43 @@ display: inline-block;}
     font-size:20px;
     text-align: justify;
     padding:15px;}
+
+    #project1{border: 2px solid white;
+                 border-radius: 20px;}
+
+    #project2{border: 2px solid white;
+        border-radius: 20px;}
+
+    #project3{border: 2px solid white;
+            border-radius: 20px;}
+
+ #project4{border: 2px solid white;
+                border-radius: 20px;} 
+
+#project5{border: 2px solid white;
+                    border-radius: 20px;} 
+
+#project6{border: 2px solid white;
+                        border-radius: 20px;} 
+
+.port-img{border-radius:25px;
+padding: 15px;}
+
+.project-text{text-align: center;
+color: white;
+font-size: 15px;}
+
+.pro-button{text-align: center;
+margin-top:auto;}
+
+.active{text-decoration: none;
+background-color: green;
+align-items: center;}
+
+.active:hover{background-color: green;}
+
+.hvr-grow{
+    display: inline-block;
+    vertical-align:middle ;
+    transition-duration: 2s;
+}
