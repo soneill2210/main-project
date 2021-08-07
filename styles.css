@@ -234,3 +234,8 @@ text-transform: uppercase;
 font-size: 18px;
 position: relative;
 }
+
+h4{text-align: center;
+color:white;
+font-family: poppins,sans-serif;
+justify-content: auto;}
