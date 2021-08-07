@@ -146,11 +146,14 @@ position: relative;
 font-size: 20px;
 display: inline-block;}
 
+.pro-section{padding:20px;}
+
 .port-intro{color:white;
     font-family: poppins,sans-serif;
     font-size:20px;
     text-align: justify;
-    padding:15px;}
+    padding:15px; 
+margin:20px;}
 
     #project1{border: 2px solid white;
                  border-radius: 20px;}
@@ -159,19 +162,24 @@ display: inline-block;}
         border-radius: 20px;}
 
     #project3{border: 2px solid white;
-            border-radius: 20px;}
+            border-radius: 20px;
+        }
 
  #project4{border: 2px solid white;
-                border-radius: 20px;} 
+                border-radius: 20px;
+            } 
 
 #project5{border: 2px solid white;
-                    border-radius: 20px;} 
+                    border-radius: 20px;
+                } 
 
 #project6{border: 2px solid white;
-                        border-radius: 20px;} 
+                        border-radius: 20px;
+                    } 
 
 .port-img{border-radius:25px;
-padding: 15px;}
+padding: 15px;
+position: relative;}
 
 .project-text{text-align: center;
 color: white;
