@@ -78,9 +78,10 @@ footer{
     color:white;
 }
 
-.contact{text-align: center;
-    padding-bottom: 15px;
+.contact-info{text-align: center;
+    padding-bottom: 10px;
     padding-top: 15px;
+    height: auto;
     font-size:20px;
     background: rgb(172,150,104);
     color:white;
@@ -90,15 +91,8 @@ footer{
     margin: 15px;
 }
 
-.social{text-align: center;
-padding-bottom: 15px;
-padding-top: 15px;
-background-color: rgb(172,150,104);
-color:white;
-font-family: poppins,sans-serif;
-border-radius: 10px;
-border:2px solid white;
-margin:15px;}
+
+
 
 
 .copyright{
