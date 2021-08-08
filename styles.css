@@ -67,7 +67,7 @@ box-shadow: rgb(188, 206, 27) 3px 3px 3px;
 text-align: justify;
 margin:20px;
 color:white;
-font-size: 20px;}
+font-size:20px;}
 
 
 footer{
@@ -155,7 +155,9 @@ width:100%;}
 .em-logos{
 position: relative;
 max-width:40%;
-border-radius: 25px;}
+border-radius: 25px;
+box-shadow: 5px 10px 9px black;
+}
 
 
 
@@ -164,18 +166,22 @@ padding:25px;
 position: relative;
 text-align: center;}
 
-.em-history{background-color: blue;
+.em-history{background-color:rgb(101, 99, 99);
 border-radius: 30px;
 align-items: center;
 color: white;
 padding: 30px;
 margin:20px;
-width: auto;}
+width: auto;
+border:2px solid white;}
 
-.education{background-color: tomato;
+.education{background-color:rgb(101,99,99);
 border-radius: 30px;
 margin:20px;
-width:auto;padding:30px;}
+width:auto;
+padding:30px;
+border:2px solid white;
+}
 
 .em-des{
     padding-left: 40px;
