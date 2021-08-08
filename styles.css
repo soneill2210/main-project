@@ -139,8 +139,7 @@ text-align:justify;}
        border: 3px solid rgb(188, 206, 27);
     text-align: justify;}
 
-.Rocco{float:left;
-margin:15px;}
+.Rocco{float:left;}
 
 .LP{float:right;
 margin:15px;
@@ -155,9 +154,8 @@ width:100%;}
 
 .em-logos{
 position: relative;
-width:40%;
-border-radius: 25px 25px;
-display:inline-block;}
+max-width:40%;
+border-radius: 25px;}
 
 
 
@@ -167,10 +165,17 @@ position: relative;
 text-align: center;}
 
 .em-history{background-color: blue;
-border-radius: 30px;}
+border-radius: 30px;
+align-items: center;
+color: white;
+padding: 30px;
+margin:20px;
+width: auto;}
 
 .education{background-color: tomato;
-border-radius: 30px;}
+border-radius: 30px;
+margin:20px;
+width:auto;padding:30px;}
 
 .em-des{
     padding-left: 40px;
@@ -221,9 +226,9 @@ font-size: 15px;}
 
 .port{font-family: poppins,sans-serif;
 text-align: center;
-display:flex;
 justify-content: center;
 padding-bottom: 15px;
+margin:15px;
 }
 
 .pro-btn{
