@@ -87,6 +87,7 @@ footer{
     font-family: poppins,sans-serif;
     border-radius: 10px;
     border:2px solid white;
+    margin: 15px;
 }
 
 .social{text-align: center;
@@ -96,7 +97,8 @@ background-color: rgb(172,150,104);
 color:white;
 font-family: poppins,sans-serif;
 border-radius: 10px;
-border:2px solid white;}
+border:2px solid white;
+margin:15px;}
 
 
 .copyright{
