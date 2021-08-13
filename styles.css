@@ -29,9 +29,8 @@ display: inline-block;
 letter-spacing: 4px;
 }
 
-.collapse{background-color:rgb(101,99,99); 
-    border-radius:10px;
-border: 1px solid white;}
+.collapse ul li {background-color:rgb(101,99,99);
+    border-radius: 10px;}
 
 
 li a:hover{color:white;
