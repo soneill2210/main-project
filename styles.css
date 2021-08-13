@@ -131,14 +131,15 @@ text-align:justify;}
 
 .ezystak{ float:right;
           max-width:60%;
-        margin:10px;}
+        margin:20px;}
 
 
 .sm-img{border-radius: 25px;
        border: 3px solid rgb(188, 206, 27);
     text-align: relative;}
 
-.Rocco{float:left;}
+.Rocco{float:left;
+margin: 20px;}
 
 .LP{float:right;
 margin:15px;
