@@ -29,8 +29,8 @@ display: inline-block;
 letter-spacing: 4px;
 }
 
-.collapse ul li {background-color:rgb(101,99,99);
-    border-radius: 10px;}
+.collapse ul li{background-color:rgb(101,99,99);}
+
 
 
 li a:hover{color:white;
@@ -60,6 +60,7 @@ display: block;
 .profile_image{
 float:left;
 height:auto;
+position: relative;
 margin:10px 10px 10px 10px;
 max-width:200px;
 padding: 10px;
