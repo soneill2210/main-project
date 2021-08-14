@@ -193,24 +193,28 @@ position: relative;
 font-size: 20px;
 display: inline-block;}
 
-.pro-section{padding:20px;}
+
 
 .port-intro{color:white;
     font-family: poppins,sans-serif;
     font-size:20px;
-    padding:15px; 
-margin:20px;}
+margin: 15px;}
 
-    .projects{border: 2px solid white;
-                 border-radius: 20px;
-                 margin:20px;
-                }
+#pro1{ border: 1px solid white;
+text-align: center;
+border-radius: 15px;
+margin:25px;}
+
+
+#pro2{ border: 1px solid white;
+    text-align: center;
+    border-radius: 15px;
+    margin:25px;}
 
 
 .port-img{border-radius:25px;
-width:40%;
-padding: 15px;
-position: relative;}
+    max-width: auto;
+padding: 15px;}
 
 .project-text{text-align: center;
 color: white;
@@ -218,9 +222,8 @@ font-size: 15px;}
 
 
 .port{font-family: poppins,sans-serif;
-text-align: center;
-justify-content: center;
 padding-bottom: 15px;
+align-items:center;
 margin:15px;
 }
 
