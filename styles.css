@@ -60,7 +60,6 @@ display: block;
 .profile_image{
 float:left;
 height:auto;
-position: relative;
 margin:10px 10px 10px 10px;
 max-width:200px;
 padding: 10px;
@@ -124,7 +123,9 @@ h3{text-align:center;
 border:3px solid rgb(188, 206, 27)}
 
 .web-link{ text-decoration: none;
-color: aqua;}
+color:aqua;}
+
+.web-link:hover{color:rgb(0, 218, 0)}
 
 .img-des{font-size: 15px;
 text-align:justify;}
@@ -159,20 +160,22 @@ border-radius: 25px;
 box-shadow: 5px 10px 9px black;
 }
 
-
+.history-info{margin: 20px;}
 
 h2{color: white;
 padding:25px;
 position: relative;
-text-align: center;}
+text-align: center;
+text-decoration:underline 1px solid white;}
 
 .em-history{background-color:rgb(101, 99, 99);
 border-radius: 30px;
 align-items: center;
 color: white;
-padding: 30px;
+justify-content: center;
+padding: 20px;
 margin:20px;
-width: auto;
+max-width: auto;
 border:2px solid white;}
 
 .education{background-color:rgb(101,99,99);
@@ -195,34 +198,17 @@ display: inline-block;}
 .port-intro{color:white;
     font-family: poppins,sans-serif;
     font-size:20px;
-    text-align: justify;
     padding:15px; 
 margin:20px;}
 
-    #project1{border: 2px solid white;
-                 border-radius: 20px;}
+    .projects{border: 2px solid white;
+                 border-radius: 20px;
+                 margin:20px;
+                }
 
-    #project2{border: 2px solid white;
-        border-radius: 20px;}
-
-    #project3{border: 2px solid white;
-            border-radius: 20px;
-        }
-
- #project4{border: 2px solid white;
-                border-radius: 20px;
-            } 
-
-#project5{border: 2px solid white;
-                    border-radius: 20px;
-                } 
-
-#project6{border: 2px solid white;
-                        border-radius: 20px;
-                    } 
 
 .port-img{border-radius:25px;
-width:60%;
+width:40%;
 padding: 15px;
 position: relative;}
 
