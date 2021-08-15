@@ -198,34 +198,26 @@ display: inline-block;}
 .port-intro{color:white;
     font-family: poppins,sans-serif;
     font-size:20px;
-margin: 15px;}
+margin: 15px;
+padding: 15px;}
 
-#pro1{ border: 1px solid white;
+.pro-section{ border: 1px solid white;
 text-align: center;
+max-width: 90%;
 border-radius: 15px;
-margin:25px;}
-
-
-#pro2{ border: 1px solid white;
-    text-align: center;
-    border-radius: 15px;
-    margin:25px;}
-
+margin:15px;
+padding: 15px;}
 
 .port-img{border-radius:25px;
-    max-width: auto;
-padding: 15px;}
+    padding:15px;
+max-width: 40%;}
 
 .project-text{text-align: center;
 color: white;
 font-size: 15px;}
 
 
-.port{font-family: poppins,sans-serif;
-padding-bottom: 15px;
-align-items:center;
-margin:15px;
-}
+
 
 .pro-btn{
     background-color:green;
