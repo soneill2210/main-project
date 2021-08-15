@@ -95,8 +95,8 @@ footer{
     margin: 15px;
 }
 
-
-
+.reachme{text-decoration:underline 2px solid white;
+letter-spacing: 6px;}
 
 
 .copyright{
@@ -231,11 +231,17 @@ font-size: 15px;}
     text-align: center;
 }
 
+.pro-btn:hover{background-color:orangered;
+letter-spacing: 2px;}
+
 form{max-width: 700px;
 border:2px solid white;
 margin:10px auto;
 padding:2rem;
 }
+
+#submit-btn:hover{background-color:rgb(165, 165, 1);
+letter-spacing: 2px;}
 
 input{display: block;}
 
