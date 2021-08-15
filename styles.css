@@ -140,7 +140,9 @@ text-align:justify;}
     text-align: relative;}
 
 .Rocco{float:left;
-margin: 20px;}
+margin: 20px;
+position: relative;
+max-width:auto;}
 
 .LP{float:right;
 margin:15px;
