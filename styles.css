@@ -162,6 +162,7 @@ border-radius: 25px;
 box-shadow: 5px 10px 9px black;
 }
 
+
 .history-info{margin: 20px;}
 
 h2{color: white;
@@ -183,7 +184,7 @@ border:2px solid white;}
 .education{background-color:rgb(101,99,99);
 border-radius: 30px;
 margin:20px;
-width:auto;
+max-width:auto;
 padding:30px;
 border:2px solid white;
 }
