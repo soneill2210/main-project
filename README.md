@@ -48,3 +48,17 @@ The add-ons I used in this project were as follows:
 * Markdown Lint
 * Sass Lint
 * Workspace
+
+### CONTACT
+
+Email: soneill2210@hotmail.com
+Telephone: 07542396831
+
+### ACKNOWLEDGEMENTS
+
+There are a few websites I used in order to help me with my project. They are as follows:
+
+<https//www.w3schools.com/>
+<https//www.youtube.com/>
+<https//www.slack.com/>
+
