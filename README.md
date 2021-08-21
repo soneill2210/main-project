@@ -58,7 +58,7 @@ Telephone: 07542396831
 
 There are a few websites I used in order to help me with my project. They are as follows:
 
-<https//www.w3schools.com/>
-<https//www.youtube.com/>
-<https//www.slack.com/>
+* <https//www.w3schools.com/>
+* <https//www.youtube.com/>
+* <https//www.slack.com/>
 
